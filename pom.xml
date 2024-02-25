@@ -21,21 +21,6 @@
         <!--     <version>1.0.0</version> -->
         <!-- </dependency> -->
 
-        <!-- Dependencies for Java 8 -->
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            <scope>test</scope>
-        </dependency>
-
-        <!-- Dependencies for Java 11 -->
-        <dependency>
-            <groupId>org.hamcrest</groupId>
-            <artifactId>hamcrest</artifactId>
-            <version>2.2</version>
-            <scope>test</scope>
-        </dependency>
 
         <!-- Dependencies for Java 14 -->
         <dependency>
