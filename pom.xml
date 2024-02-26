@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>in.automationtesting.CSC581</groupId>
     <artifactId>CSC581_Maven</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <properties>
 		<java.version.14>14</java.version.14>
 		<java.version.17>17</java.version.17>
