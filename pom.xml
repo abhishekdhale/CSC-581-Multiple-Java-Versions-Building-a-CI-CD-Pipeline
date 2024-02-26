@@ -68,6 +68,6 @@
 	<distributionManagement>
 		<repository>
 			<id>local-repo</id>
-			<url>file:///C:/ProgramData/Jenkins/.jenkins/workspace/multi-java-pipeline-maven/dist</url>
+			<url>file:///C:/Users/Abhishek/Desktop/581-Adv. Software Programming/Maven/CSC-581-Multiple-Java-Versions-Building-a-CI-CD-Pipeline</url>
 		</repository>
 	</distributionManagement>
