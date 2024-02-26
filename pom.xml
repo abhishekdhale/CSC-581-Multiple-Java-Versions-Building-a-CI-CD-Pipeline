@@ -71,3 +71,4 @@
 			<url>file:///C:/ProgramData/Jenkins/.jenkins/workspace/CICD for multiple java version/</url>
 		</repository>
 	</distributionManagement>
+</project>
